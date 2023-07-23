@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asim Mohammed Dosani</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 currently i'm learning **React Js**
 
 - 📫 How to reach me **asimdosani95@gmail.com**
 
