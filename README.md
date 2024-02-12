@@ -6,6 +6,11 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4da34d&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Asim+Dosani;I'm+a+Front-End+Developer;)
+
+<p>Through my journey, I've honed my skills in JavaScript, React, CSS, and other modern web technologies, always with an eye towards performance and user experience. I've contributed to various projects ranging from small business websites to large-scale web applications, consistently striving to exceed expectations.
+
+I believe in lifelong learning and the power of collaboration. I'm always on the lookout for new challenges and opportunities to grow. Let's connect and create something amazing together!
+</p>
 </div>
 <br> <br> 
 
